@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Module name="top" Register="178" Lut="95" T_Register="1026(178)" T_Alu="300(0)" T_Lut="813(95)">
- <SubModule name="sha1_inst" Register="330" Alu="294" Lut="391" T_Register="848(330)" T_Alu="300(294)" T_Lut="718(391)">
-  <SubModule name="w_mem_inst" Register="518" Alu="6" Lut="327" T_Register="518(518)" T_Alu="6(6)" T_Lut="327(327)"/>
+<Module name="top" Register="178" Lut="98" T_Register="1026(178)" T_Alu="300(0)" T_Lut="794(98)">
+ <SubModule name="sha1_inst" Register="330" Alu="294" Lut="360" T_Register="848(330)" T_Alu="300(294)" T_Lut="696(360)">
+  <SubModule name="w_mem_inst" Register="518" Alu="6" Lut="336" T_Register="518(518)" T_Alu="6(6)" T_Lut="336(336)"/>
  </SubModule>
 </Module>
